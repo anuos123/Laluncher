@@ -1,0 +1,1 @@
+start cmd /k "pyinstaller Laluncher_ui.py --onefile"
